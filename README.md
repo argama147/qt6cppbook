@@ -2,6 +2,8 @@
 
 # 書籍情報
 
+書籍名：技術同人誌「Qt5/Qt6入門 C++」
+
 <img src="https://user-images.githubusercontent.com/5881452/121907339-ed81d800-cd66-11eb-9f8a-95b0be5e9561.png" width="320px">
 
 ## イベント情報
