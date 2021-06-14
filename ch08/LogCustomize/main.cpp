@@ -29,8 +29,8 @@ int main(int argc, char *argv[])
     qInstallMessageHandler(myMessageOutput); //【1】
     QCoreApplication a(argc, argv);
 
-    qDebug() << "Debug Message";
-    qInfo() << "Info Message";
+    qDebug() << "qDebug Message";
+    qInfo() << "qInfo Message";
     qWarning() << "qWarning Message";
     qCritical() << "qCritical Message";
 
