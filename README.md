@@ -6,6 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/5881452/121907339-ed81d800-cd66-11eb-9f8a-95b0be5e9561.png" width="320px">
 
+表紙は[ぴーす](https://twitter.com/piisu_)様にお願いしました。
+
+
 ## 主な目次
 
 第1章 Qtの概要
