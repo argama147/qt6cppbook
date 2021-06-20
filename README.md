@@ -45,7 +45,7 @@ https://gishohaku.dev/gishohaku5/books/cutrlMY9WaWhaINNnjM4
 
 ## BOOTH
 
-準備中（2020/06/19）に公開予定
+https://eugo.booth.pm/items/3045661
 
 # サポート
 
