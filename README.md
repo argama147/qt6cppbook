@@ -6,6 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/5881452/121907339-ed81d800-cd66-11eb-9f8a-95b0be5e9561.png" width="320px">
 
+Qt5とQt6の両方に対応したQtの入門書です。インストールから始め、C++でコードを書き、画面はQt Widgetsベースのアプリについて解説します。Qt6から使用できるようになったCMakeにも対応。
+
 表紙は[ぴーす](https://twitter.com/piisu_)様にお願いしました。
 
 
