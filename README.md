@@ -41,6 +41,10 @@ Qt5とQt6の両方に対応したQtの入門書です。インストールから
 
 ## イベント情報
 
+### 技術書典11
+
+https://techbookfest.org/event/tbf11
+
 ### 第五回技術書同人誌博覧会
 
 https://gishohaku.dev/gishohaku5/books/cutrlMY9WaWhaINNnjM4
