@@ -45,6 +45,10 @@ Qt5とQt6の両方に対応したQtの入門書です。インストールから
 
 https://techbookfest.org/event/tbf11
 
+技術書典のYouTubeチャンネルで紹介されました。
+
+https://www.youtube.com/watch?v=2SLFl_i1pL0&t=4141s
+
 ### 第五回技術書同人誌博覧会
 
 https://gishohaku.dev/gishohaku5/books/cutrlMY9WaWhaINNnjM4
