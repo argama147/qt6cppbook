@@ -43,7 +43,7 @@ Qt5とQt6の両方に対応したQtの入門書です。インストールから
 
 ### 技術書典11
 
-https://techbookfest.org/event/tbf11
+https://techbookfest.org/product/4534960490807296?productVariantID=5472816721821696
 
 技術書典のYouTubeチャンネルで紹介されました。
 
