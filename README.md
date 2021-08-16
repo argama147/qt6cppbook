@@ -4,7 +4,7 @@
 
 書籍名：技術同人誌「Qt5/Qt6入門 C++編」
 
-<img src="https://user-images.githubusercontent.com/5881452/121907339-ed81d800-cd66-11eb-9f8a-95b0be5e9561.png" width="320px">
+<img src="https://user-images.githubusercontent.com/5881452/129577716-a2c1fca8-b11b-4e32-a007-f9c448186f76.png" width="320px">
 
 Qt5とQt6の両方に対応したQtの入門書です。インストールから始め、C++でコードを書き、画面はQt Widgetsベースのアプリについて解説します。Qt6から使用できるようになったCMakeにも対応。
 
