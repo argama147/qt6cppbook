@@ -39,6 +39,12 @@ Qt5とQt6の両方に対応したQtの入門書です。インストールから
 
 第13章 2D グラフィクス
 
+## YouTubeチャンネル
+
+ゼッツプログラTVというチャンネルをYouTubeで始めました。
+Qtの情報をどんどんお届けする予定です。
+https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg
+
 ## イベント情報
 
 ### 技術書典11
