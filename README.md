@@ -39,12 +39,6 @@ Qt5とQt6の両方に対応したQtの入門書です。インストールから
 
 第13章 2D グラフィクス
 
-## YouTubeチャンネル
-
-ゼッツプログラTVというチャンネルをYouTubeで始めました。
-Qtの情報をどんどんお届けする予定です。
-https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg
-
 ## イベント情報
 
 ### 技術書典11
@@ -67,12 +61,27 @@ https://eugo.booth.pm/items/3045661
 
 [サポートページ](https://github.com/argama147/qt6cppbook/wiki/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%83%9A%E3%83%BC%E3%82%B8)
 
+## 商業化情報
 
-# エゥーゴ サークル情報
+本書は、インプレスR&D社より商業出版しています。
+商業版のページは[こちら](https://github.com/argama147/qt5qt6cppbook)。
+
+# 筆者紹介
+
+## エゥーゴ サークル情報
 
 [技術書典 サークルページ](https://techbookfest.org/organization/43220004)
 [技術書同人誌博覧会 サークルページ](https://gishohaku.dev/gishohaku5/circles/JnnJ1huJHGeEdOzG5qod)
 [とらのあな サークルページ](https://ecs.toranoana.jp/tora/ec/cot/circle/2UPA2C6Q8V7Md06Pd687/all/)
+
+## Twitter
+
+[@argama147](https://twitter.com/argama147)
+
+## YouTubeチャンネル
+
+「ゼッツプログラTV」というYouTubeチャンネルでQtの情報を配信しています。
+https://www.youtube.com/channel/UCK4cX4AtA7dIIjqFc1q6bTg
 
 # 免責事項
 本サンプルプログラムにおけるスクリプト・プログラム・紹介する手法など全ての無償情報（以下、「無償プログラム等」）については、下記の通り一切の保証が無いものとしてご利用下さい。
