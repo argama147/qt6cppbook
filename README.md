@@ -65,6 +65,7 @@ https://eugo.booth.pm/items/3045661
 
 本書は、インプレスR&D社より商業出版しています。
 商業版のページは[こちら](https://github.com/argama147/qt5qt6cppbook)。
+技術同人誌版と商業版の違いは[こちら](https://www.youtube.com/watch?v=y_vrANENcvI)で説明しています。
 
 # 筆者紹介
 
